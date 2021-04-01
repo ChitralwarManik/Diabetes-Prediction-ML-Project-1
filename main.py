@@ -36,4 +36,4 @@ random_forest_model = RandomForestClassifier(random_state=10)
 random_forest_model.fit(X_train, y_train.ravel())
 # Creating a pickle file for the classifier
 filename = 'diabetes-prediction-rfc-model.pkl'
-pickle.dump(classifier, open(filename, 'wb'))
+pickle.dump(random_forest_model, open(filename, 'wb'))
