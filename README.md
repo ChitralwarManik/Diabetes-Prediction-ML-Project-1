@@ -10,7 +10,7 @@ Deployed at: _https://diabetes-ml-project.herokuapp.com/_
 
 • A glimpse of the web app:
 
-![GIF](readme_resources/diabetes-predictor-web-app.gif)
+![GIF](https://github.com/ChitralwarManik/Diabetes-Prediction-ML-Project-1/blob/main/screen-recorder-of-diabetes-prediction-app.webm)
 
 _**----- Important Note -----**_<br />
 • If you encounter this webapp as shown in the picture given below, it is occuring just because **free dynos for this particular month provided by Heroku have been completely used.** _You can access the webpage on 1st of the next month._<br />
