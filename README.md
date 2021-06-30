@@ -8,5 +8,6 @@ Deployed at: _https://diabetes-ml-project.herokuapp.com/_
 
 _https://github.com/ChitralwarManik/Face-Recognition-model_
 
+_https://medium.com/@ManikChitralwar/create-your-own-image-dataset-4136347aad87_
 • Please do ⭐ the repository, if it helped you in anyway.
 
