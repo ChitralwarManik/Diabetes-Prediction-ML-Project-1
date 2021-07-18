@@ -1,6 +1,8 @@
 # Diabetes Prediction - Deployment
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
 
+![](https://www.pathkindlabs.com/media_upload/blog/caa7d7831f8e6dabd62299c88d7a1830.jpg)
+
 • This repository consists of files required to deploy a ___Machine Learning Web App___ created with ___Flask___ on ___Heroku___ platform.
 
 • Created a Machine Learning Web app to predict Diabetes with 86.45% accuracy. 
